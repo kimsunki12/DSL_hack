@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-chroma
+langchain-upstage
+chromadb
+upstage
+pypdf
+uuid
