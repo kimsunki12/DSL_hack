@@ -6,3 +6,4 @@ langchain-chroma
 langchain-upstage
 chromadb==0.4.24
 pypdf==3.9.1
+pysqlite3-binary

@@ -1,3 +1,6 @@
+import pysqlite3
+pysqlite3.install_as_sqlite3()
+
 import os
 import streamlit as st
 import base64
