@@ -1,9 +1,1 @@
 streamlit
-python-dotenv
-langchain==0.1.12
-langchain-community==0.0.28
-langchain-chroma==0.1.9
-langchain-upstage==0.0.5
-chromadb==0.4.24
-upstage==0.2.1
-pypdf==3.9.1
